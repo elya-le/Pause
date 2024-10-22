@@ -31,9 +31,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Pause is a message journal – a space for delayed communication in a world of instant replies. It's for those who want to write, reflect, and maybe never send. Or perhaps, one day, when the time feels right. Sometimes, the message isn't ready. It needs to breathe, to simmer, to sit with us as life unfolds.
+Pause is a letter journal – a space for delayed communication in a world of instant replies. For when you want to write, reflect, and maybe never send—or wait until the time feels right. Some messages aren’t ready and need time to develop as life unfolds.
 
-Pause is for those moments when we need to speak, but not just yet. It’s a break from the pressure of always being available, a space to let our thoughts linger and grow. A love letter to anyone who needs time to draft, heal, reflect, and pause before being seen.
+Pause is for those moments when you want to communicate but need space. It’s a break from the pressure of being constantly available, giving you time to draft, reflect, and grow before responding.
 
 ### Key Features / Roadmap
 - [ ] Encrypted Journals: Securely store messages, even if the recipient hasn’t signed up.
